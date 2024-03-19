@@ -38,6 +38,7 @@ Step2: php vendor/bin/phpunit tests
 ### Question 3
 
 Précisez en combien de temps vous avez implémenté cette fonction.
+1h
 
 ## Merci
 
