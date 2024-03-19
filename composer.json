@@ -1,0 +1,13 @@
+{
+    "name": "sofiane-bs/globtest",
+    "require": {
+        "php": "^7.4",
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "GlobTest\\": "src/",
+            "GlobTest\\Tests\\": "tests/"
+        }
+    }
+}
